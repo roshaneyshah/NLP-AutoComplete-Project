@@ -1,0 +1,28 @@
+NLP AUTOCOMPLETE PROJECT - PROCESSING SUMMARY
+==================================================
+
+DATA STATISTICS:
+  Training sentences: 40,000
+  Test sentences: 10,000
+  Vocabulary size: 30
+
+N-GRAM MODELS:
+  Models built: 1-gram to 6-gram
+
+PERPLEXITY SCORES:
+  1-gram: 22.7486
+  2-gram: 1.8913
+  3-gram: 1.6587
+  4-gram: 1.6587
+  5-gram: 1.6587
+  6-gram: 1.6587
+
+AUTOCOMPLETE SAMPLES: 5 tested
+
+OUTPUT FILES:
+  ✓ data/processed/train_data.pkl
+  ✓ data/processed/test_data.pkl
+  ✓ data/processed/vocabulary.pkl
+  ✓ data/processed/ngram_models.pkl
+  ✓ results/perplexity_results.txt
+  ✓ results/autocomplete_samples.txt

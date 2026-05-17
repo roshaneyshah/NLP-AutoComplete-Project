@@ -1,0 +1,18 @@
+AUTOCOMPLETE EXAMPLES
+========================================
+
+Input: 'i love'
+Suggestions: ['this', 'feeling', 'python', 'am', 'intelligence']
+
+Input: 'how are you'
+Suggestions: ['today', 'are', 'feeling', 'python', 'am']
+
+Input: 'the weather'
+Suggestions: ['is', 'feeling', 'python', 'am', 'intelligence']
+
+Input: 'good morning'
+Suggestions: ['everyone', 'feeling', 'python', 'am', 'intelligence']
+
+Input: 'i am'
+Suggestions: ['feeling', 'python', 'am', 'intelligence', 'hate']
+
