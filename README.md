@@ -70,6 +70,14 @@ Train: 40,000 | Test: 10,000 | Vocab: 5,901
 
 Roshane Shahbaz (220444)
 
-## Deadline
+## Instructor
 
-May 17, 2026, 11:59 PM
+Mehvish Fatima
+
+## Course
+
+Natural Language Processing
+
+## Semester Project
+
+## Deadline: 17 May, 2026
